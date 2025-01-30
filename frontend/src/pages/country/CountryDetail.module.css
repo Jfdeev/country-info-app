@@ -1,0 +1,55 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 24px;
+    background-color: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 16px;
+    color: #2d3748; /* Gray 800 */
+}
+
+.flag {
+    width: 50%;
+    margin: 0 auto;
+    margin-bottom: 16px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.subtitle {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #2d3748; /* Gray 800 */
+    margin-bottom: 8px;
+}
+
+.borderList {
+    list-style-type: disc;
+    padding-left: 20px;
+    margin-bottom: 16px;
+}
+
+.borderItem {
+    margin-bottom: 8px;
+}
+
+.link {
+    color: #3182ce; /* Blue 600 */
+    text-decoration: none;
+}
+
+.link:hover {
+    text-decoration: underline;
+}
+
+.loading {
+    text-align: center;
+    color: #4a5568; /* Gray 700 */
+}
